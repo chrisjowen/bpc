@@ -1,0 +1,137 @@
+[
+    {
+        "projectName": "BEF",
+        "domain": "1",
+        "id": "1"
+    },
+    {
+        "projectName": "DMP-TB-EXCESS BALANCE",
+        "domain": "1",
+        "id": "2"
+    },
+    {
+        "projectName": "EDMp-CIB-CB-Consumption",
+        "domain": "1",
+        "id": "3"        
+    },
+    {
+        "projectName": "EDMp-Country Data Lake",
+        "domain": "1",
+        "id": "4"
+    },
+    {
+        "projectName": "PDW",
+        "domain": "1",
+        "id": "5"
+    },
+    {
+        "projectName": "EDMP-RB-RA",
+        "domain": "1",
+        "id": "6"
+    },
+    {
+        "projectName": "OCIR",
+        "domain": "1",
+        "id": "7"
+    },
+    {
+        "projectName": "EDFS",
+        "domain": "1",
+        "id": "8"
+    },
+    {
+        "projectName": "MDIS",
+        "domain": "2",
+        "id": "9"
+    },
+    {
+        "projectName": "ENTERPRIZE DATA MANAGEMENT INTEGRATION",
+        "domain": "2",
+        "id": "10"
+    },
+    {
+        "projectName": "API GATEWAY",
+        "domain": "2",
+        "id": "11"
+    },
+    {
+        "projectName": "IMFT",
+        "domain": "2",
+        "id": "12"
+    },
+    {
+        "projectName": "INTEGRATION SERVICES",
+        "domain": "2",
+        "id": "13"
+    },
+    {
+        "projectName": "CBIS",
+        "domain": "2",
+        "id": "14"
+    },
+    {
+        "projectName": "DATACAP ",
+        "domain": "3",
+        "id": "15"
+    },
+    {
+        "projectName": "INSTABASE",
+        "domain": "3",
+        "id": "16"
+    },
+    {
+        "projectName": "ECARS",
+        "domain": "3",
+        "id": "17"
+    },
+    {
+        "projectName": "EOPS",
+        "domain": "3",
+        "id": "18"
+    },
+    {
+        "projectName": "RAPID CASH PLUS",
+        "domain": "3",
+        "id": "19"
+    },
+    {
+        "projectName": "CERS",
+        "domain": "3",
+        "id": "20"
+    },
+    {
+        "projectName": "GEMS",
+        "domain": "3",
+        "id": "21"
+    },
+    {
+        "projectName": "TLM-FINRECON",
+        "domain": "3",
+        "id": "22"
+    },
+    {
+        "projectName": "RDM",
+        "domain": "4",
+        "id": "23"
+    },
+    {
+        "projectName": "EDMp - DATA FABRIC",
+        "domain": "4",
+        "id": "24"
+    },
+    {
+        "projectName": "EDMp - TERADATA",
+        "domain": "4",
+        "id": "25"
+    },
+    {
+        "projectName": "EDMp - FRAMEWORK",
+        "domain": "4",
+        "id": "26"
+    },
+    {
+        "projectName": "EDMp-Capital Reporting-DQ",
+        "domain": "4",
+        "id": "27"
+    }
+]

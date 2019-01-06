@@ -1,0 +1,29 @@
+[
+    {
+        "id": "1",
+        "name": "Business Solution and Change Delivery",
+        "domainLeadId": "1",
+        "domainLeadName": "Santhosh Mahendiran"
+    },
+    {
+        "id": "2",
+        "name": "Core Engineering Integration",
+        "domainLeadId": "2",
+        "domainLeadName": "Sugata Sarkar"
+    },
+    {
+        "id": "3",
+        "name": "Operational Automation",
+        "domainLeadId": "3",
+        "domainLeadName": "Balu Mohan"
+    },
+    {
+        "id": "4",
+        "name": "Platforms",
+        "domainLeadId": "4",
+        "domainLeadName": "Pradeep Namblat"
+    }
+]
+
+ 
+

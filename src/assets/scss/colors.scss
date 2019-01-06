@@ -1,0 +1,14 @@
+@import "~vue-material/dist/theme/engine"; 
+
+$primary: md-get-palette-color(blue, A200 );
+$accent: md-get-palette-color(blue, 600);
+
+
+$white: md-get-palette-color(white, A200);
+$gray: #D6D4D4;
+$light-gray: #fafafa;
+
+$success: #37ADA6; 
+$in-progress: #D2E351;
+$not-started: white; 
+$blocked: #E35151; 

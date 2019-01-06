@@ -1,0 +1,316 @@
+{
+    "wave": 1,
+    "status": "STARTED",
+    "start": "01/06/2018",
+    "end": "01/12/2018",
+    "domain": "1",
+    "teams": [
+        {
+            "team": "Talend",
+            "epic_link": "",
+            "status": "NOT_STARTED",
+            "started": "01/06/2018",
+            "champions": [
+                {
+                    "name": "Shashikant Blah",
+                    "psid": 1572646
+                }
+            ],
+            "coaches": [
+                {
+                    "name": "Christopher Owen",
+                    "psid": 1574684
+                }
+            ],
+            "stages": [
+                {
+                    "name": "Team Evaluation",
+                    "status": "DONE",
+                    "links": [
+                        {
+                            "name": "BitBucket Url:",
+                            "url": "http://asdasdasdasdasd",
+                            "comennentory": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "VX Training",
+                    "status": "DONE",
+                    "links": [
+                        {
+                            "name": "BitBucket Url:",
+                            "url": "http://asdasdasdasdasd",
+                            "comennentory": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "BitBucket Adoption",
+                    "status": "DONE",
+                    "links": [
+                        {
+                            "name": "BitBucket Url:",
+                            "url": "http://asdasdasdasdasd",
+                            "comennentory": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Jenkins Training",
+                    "status": "DONE",
+                    "evidence": ""
+                },
+                {
+                    "name": "Artifactory Adoption",
+                    "status": "DONE",
+                    "evidence": ""
+                },
+                {
+                    "name": "Automated Testing",
+                    "status": "IN_PROGRESS"
+                },
+                {
+                    "name": "PTP",
+                    "status": "NOT_APPLICABLE"
+                },
+                {
+                    "name": "RunDeck",
+                    "status": "NOT_APPLICABLE"
+                }
+            ]
+        },
+        {
+            "team": "Data Fabric",
+            "stages": [
+                {
+                    "name": "Team Evaluation",
+                    "status": "DONE",
+                    "links": [
+                        {
+                            "name": "BitBucket Url:",
+                            "url": "http://asdasdasdasdasd",
+                            "comennentory": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "VX Training",
+                    "status": "DONE",
+                    "links": [
+                        {
+                            "name": "BitBucket Url:",
+                            "url": "http://asdasdasdasdasd",
+                            "comennentory": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "BitBucket Adoption",
+                    "status": "DONE",
+                    "links": [
+                        {
+                            "name": "BitBucket Url:",
+                            "url": "http://asdasdasdasdasd",
+                            "comennentory": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Jenkins",
+                    "status": "DONE"
+                },
+                {
+                    "name": "Artifactory",
+                    "status": "DONE"
+                },
+                {
+                    "name": "Automated Testing",
+                    "status": "IN_PROGRESS"
+                },
+                {
+                    "name": "PTP",
+                    "status": "DONE"
+                },
+                {
+                    "name": "RunDeck",
+                    "status": "DONE"
+                }
+            ]
+        },
+        {
+            "team": "IFRS9",
+            "stages": [
+                {
+                    "name": "Team Evaluation",
+                    "status": "DONE",
+                    "links": [
+                        {
+                            "name": "BitBucket Url:",
+                            "url": "http://asdasdasdasdasd",
+                            "comennentory": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "VX Training",
+                    "status": "DONE",
+                    "links": [
+                        {
+                            "name": "BitBucket Url:",
+                            "url": "http://asdasdasdasdasd",
+                            "comennentory": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "BitBucket Adoption",
+                    "status": "DONE",
+                    "links": [
+                        {
+                            "name": "BitBucket Url:",
+                            "url": "http://asdasdasdasdasd",
+                            "comennentory": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Jenkins",
+                    "status": "DONE"
+                },
+                {
+                    "name": "Artifactory",
+                    "status": "DONE"
+                },
+                {
+                    "name": "Automated Testing",
+                    "status": "DONE"
+                },
+                {
+                    "name": "PTP",
+                    "status": "DONE"
+                },
+                {
+                    "name": "RunDeck",
+                    "status": "DONE"
+                }
+            ]
+        },
+        {
+            "team": "B3IDL",
+            "stages": [
+                {
+                    "name": "Team Evaluation",
+                    "status": "DONE",
+                    "links": [
+                        {
+                            "name": "BitBucket Url:",
+                            "url": "http://asdasdasdasdasd",
+                            "comennentory": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "VX Training",
+                    "status": "DONE",
+                    "links": [
+                        {
+                            "name": "BitBucket Url:",
+                            "url": "http://asdasdasdasdasd",
+                            "comennentory": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "BitBucket Adoption",
+                    "status": "DONE",
+                    "links": [
+                        {
+                            "name": "BitBucket Url:",
+                            "url": "http://asdasdasdasdasd",
+                            "comennentory": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Jenkins",
+                    "status": "DONE"
+                },
+                {
+                    "name": "Artifactory",
+                    "status": "DONE"
+                },
+                {
+                    "name": "Automated Testing",
+                    "status": "IN_PROGRESS"
+                },
+                {
+                    "name": "PTP",
+                    "status": "DONE"
+                },
+                {
+                    "name": "RunDeck",
+                    "status": "DONE"
+                }
+            ]
+        },
+        {
+            "team": "Sourcing",
+            "stages": [
+                {
+                    "name": "Team Evaluation",
+                    "status": "DONE",
+                    "links": [
+                        {
+                            "name": "BitBucket Url:",
+                            "url": "http://asdasdasdasdasd",
+                            "comennentory": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "VX Training",
+                    "status": "DONE",
+                    "links": [
+                        {
+                            "name": "BitBucket Url:",
+                            "url": "http://asdasdasdasdasd",
+                            "comennentory": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "BitBucket Adoption",
+                    "status": "DONE",
+                    "links": [
+                        {
+                            "name": "BitBucket Url:",
+                            "url": "http://asdasdasdasdasd",
+                            "comennentory": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Jenkins",
+                    "status": "DONE"
+                },
+                {
+                    "name": "Artifactory",
+                    "status": "DONE"
+                },
+                {
+                    "name": "Automated Testing",
+                    "status": "BLOCKED"
+                },
+                {
+                    "name": "PTP",
+                    "status": "BLOCKED"
+                },
+                {
+                    "name": "RunDeck",
+                    "status": "BLOCKED"
+                }
+            ]
+        }
+    ]
+}

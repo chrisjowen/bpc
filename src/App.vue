@@ -1,28 +1,32 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <md-toolbar class="md-primary" md-elevation="1">
+      <h3 class="md-title" style="flex: 1">Title</h3>
+      <md-button>Refresh</md-button>
+      <md-button class="md-primary">Create</md-button>
+    </md-toolbar>
+    <router-view/>
   </div>
 </template>
 
-<script>
-import HelloWorld from './components/HelloWorld.vue'
+<style lang="scss" >
+@import "~vue-material/dist/theme/engine"; // Import the theme engine
+@import "./src/assets/scss/colors";
+@include md-register-theme("default",( 
+  primary: $primary,
+));
 
-export default {
-  name: 'app',
-  components: {
-    HelloWorld
-  }
-}
-</script>
+@import "~vue-material/dist/theme/all";
 
-<style>
 #app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+  .md-content {
+    background: $light-gray;
+  }
+  .md-drawer {
+    width: 200px;
+  }
+  .page-container {
+    margin: 18px;
+  }
 }
 </style>

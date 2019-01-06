@@ -1,0 +1,352 @@
+{
+    "wave": 1,
+    "status": "STARTED",
+    "domain" : "1",
+    "teams": [
+        "Talend"
+    ],
+    "start": "01/06/2018",
+    "end": "01/12/2018",
+    "data": [
+        {
+            "team": "Talend",
+            "epic_link": "",
+            "status": "NOT_STARTED",
+            "started": "01/06/2018",
+            "champions": [
+                {
+                    "name": "Shashikant Blah",
+                    "psid": 1572646
+                }
+            ],
+            "coaches": [
+                {
+                    "name": "Christopher Owen",
+                    "psid": 1574684
+                }
+            ],
+            "stages": [
+                {
+                    "name": "Team Review",
+                    "status": "DONE",
+                    "links": [
+                        {
+                            "name": "BitBucket Url:",
+                            "url": "http://asdasdasdasdasd",
+                            "comennentory": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Automation Approach",
+                    "status": "DONE",
+                    "links": [
+                        {
+                            "name": "Testing Hadoop",
+                            "url": "http://confluence.vx.blah",
+                            "comennentory": ""
+                        },
+                        {
+                            "name": "HTaaS",
+                            "url": "http://confluence.vx.blah",
+                            "comennentory": "Hadoop mini cluster enviroment ready for testing"
+                        }
+                    ]
+                },
+                {
+                    "name": "Test Automation Fundamentals Training",
+                    "status": "DONE",
+                    "evidence": ""
+                },
+                {
+                    "name": "Test Automation In Continious Integration Training",
+                    "status": "IN_PROGRESS"
+                },
+                {
+                    "name": "Test Harness Created",
+                    "status": "IN_PROGRESS"
+                },
+                {
+                    "name": "Team Skilled Enough To Meet Quality Standards",
+                    "status": "IN_PROGRESS"
+                },
+                {
+                    "name": "Quality Standards Met",
+                    "status": "IN_PROGRESS"
+                }
+            ]
+        },
+        {
+            "team": "Data Fabric",
+            "epic_link": "",
+            "status": "NOT_STARTED",
+            "started": "01/06/2018",
+            "champions": [
+                {
+                    "name": "Shashikant Blah",
+                    "psid": 1572646
+                }
+            ],
+            "coaches": [
+                {
+                    "name": "Christopher Owen",
+                    "psid": 1574684
+                }
+            ],
+            "stages": [
+                {
+                    "name": "Team Review",
+                    "status": "DONE",
+                    "links": [
+                        {
+                            "name": "BitBucket Url:",
+                            "url": "http://asdasdasdasdasd",
+                            "comennentory": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Automation Approach",
+                    "status": "DONE",
+                    "links": [
+                        {
+                            "name": "Testing Hadoop",
+                            "url": "http://confluence.vx.blah",
+                            "comennentory": ""
+                        },
+                        {
+                            "name": "HTaaS",
+                            "url": "http://confluence.vx.blah",
+                            "comennentory": "Hadoop mini cluster enviroment ready for testing"
+                        }
+                    ]
+                },
+                {
+                    "name": "Test Automation Fundamentals Training",
+                    "status": "DONE",
+                    "evidence": ""
+                },
+                {
+                    "name": "Test Automation In Continious Integration Training",
+                    "status": "IN_PROGRESS"
+                },
+                {
+                    "name": "Test Harness Created",
+                    "status": "IN_PROGRESS"
+                },
+                {
+                    "name": "Team Skilled Enough To Meet Quality Standards",
+                    "status": "IN_PROGRESS"
+                },
+                {
+                    "name": "Quality Standards Met",
+                    "status": "IN_PROGRESS"
+                }
+            ]
+        },
+        {
+            "team": "Data Fabric",
+            "epic_link": "",
+            "status": "NOT_STARTED",
+            "started": "01/06/2018",
+            "champions": [
+                {
+                    "name": "Shashikant Blah",
+                    "psid": 1572646
+                }
+            ],
+            "coaches": [
+                {
+                    "name": "Christopher Owen",
+                    "psid": 1574684
+                }
+            ],
+            "stages": [
+                {
+                    "name": "Team Review",
+                    "status": "DONE",
+                    "links": [
+                        {
+                            "name": "BitBucket Url:",
+                            "url": "http://asdasdasdasdasd",
+                            "comennentory": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Automation Approach",
+                    "status": "DONE",
+                    "links": [
+                        {
+                            "name": "Testing Hadoop",
+                            "url": "http://confluence.vx.blah",
+                            "comennentory": ""
+                        },
+                        {
+                            "name": "HTaaS",
+                            "url": "http://confluence.vx.blah",
+                            "comennentory": "Hadoop mini cluster enviroment ready for testing"
+                        }
+                    ]
+                },
+                {
+                    "name": "Test Automation Fundamentals Training",
+                    "status": "DONE",
+                    "evidence": ""
+                },
+                {
+                    "name": "Test Automation In Continious Integration Training",
+                    "status": "IN_PROGRESS"
+                },
+                {
+                    "name": "Test Harness Created",
+                    "status": "IN_PROGRESS"
+                },
+                {
+                    "name": "Team Skilled Enough To Meet Quality Standards",
+                    "status": "IN_PROGRESS"
+                },
+                {
+                    "name": "Quality Standards Met",
+                    "status": "IN_PROGRESS"
+                }
+            ]
+        },
+        {
+            "team": "Data Fabric",
+            "epic_link": "",
+            "status": "NOT_STARTED",
+            "started": "01/06/2018",
+            "champions": [
+                {
+                    "name": "Shashikant Blah",
+                    "psid": 1572646
+                }
+            ],
+            "coaches": [
+                {
+                    "name": "Christopher Owen",
+                    "psid": 1574684
+                }
+            ],
+            "stages": [
+                {
+                    "name": "Team Review",
+                    "status": "DONE",
+                    "links": [
+                        {
+                            "name": "BitBucket Url:",
+                            "url": "http://asdasdasdasdasd",
+                            "comennentory": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Automation Approach",
+                    "status": "DONE",
+                    "links": [
+                        {
+                            "name": "Testing Hadoop",
+                            "url": "http://confluence.vx.blah",
+                            "comennentory": ""
+                        },
+                        {
+                            "name": "HTaaS",
+                            "url": "http://confluence.vx.blah",
+                            "comennentory": "Hadoop mini cluster enviroment ready for testing"
+                        }
+                    ]
+                },
+                {
+                    "name": "Test Automation Fundamentals Training",
+                    "status": "DONE",
+                    "evidence": ""
+                },
+                {
+                    "name": "Test Automation In Continious Integration Training",
+                    "status": "IN_PROGRESS"
+                },
+                {
+                    "name": "Test Harness Created",
+                    "status": "IN_PROGRESS"
+                },
+                {
+                    "name": "Team Skilled Enough To Meet Quality Standards",
+                    "status": "IN_PROGRESS"
+                },
+                {
+                    "name": "Quality Standards Met",
+                    "status": "IN_PROGRESS"
+                }
+            ]
+        },
+        {
+            "team": "Data Fabric",
+            "epic_link": "",
+            "status": "NOT_STARTED",
+            "started": "01/06/2018",
+            "champions": [
+                {
+                    "name": "Shashikant Blah",
+                    "psid": 1572646
+                }
+            ],
+            "coaches": [
+                {
+                    "name": "Christopher Owen",
+                    "psid": 1574684
+                }
+            ],
+            "stages": [
+                {
+                    "name": "Team Review",
+                    "status": "DONE",
+                    "links": [
+                        {
+                            "name": "BitBucket Url:",
+                            "url": "http://asdasdasdasdasd",
+                            "comennentory": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Automation Approach",
+                    "status": "DONE",
+                    "links": [
+                        {
+                            "name": "Testing Hadoop",
+                            "url": "http://confluence.vx.blah",
+                            "comennentory": ""
+                        },
+                        {
+                            "name": "HTaaS",
+                            "url": "http://confluence.vx.blah",
+                            "comennentory": "Hadoop mini cluster enviroment ready for testing"
+                        }
+                    ]
+                },
+                {
+                    "name": "Test Automation Fundamentals Training",
+                    "status": "DONE",
+                    "evidence": ""
+                },
+                {
+                    "name": "Test Automation In Continious Integration Training",
+                    "status": "IN_PROGRESS"
+                },
+                {
+                    "name": "Test Harness Created",
+                    "status": "IN_PROGRESS"
+                },
+                {
+                    "name": "Team Skilled Enough To Meet Quality Standards",
+                    "status": "IN_PROGRESS"
+                },
+                {
+                    "name": "Quality Standards Met",
+                    "status": "IN_PROGRESS"
+                }
+            ]
+        }
+    ]
+}
