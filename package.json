@@ -15,7 +15,7 @@
     "vue-apexcharts": "^1.2.7",
     "vue-material": "^1.0.0-beta-10.2",
     "vue-router": "^3.0.2",
-    "xlsx": "^0.14.1"
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.2.0",
